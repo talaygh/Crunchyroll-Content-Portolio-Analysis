@@ -10,14 +10,15 @@ LayerToolData SourceKaggleData WarehouseSnowflakeTransformationSQL (Snowflake)Se
 
 ## Dataset
 Downloaded from Kaggle: Crunchyroll Animes and Movies by victorsoeiro.
-Two source files:
 
+Two source files:
 titles.csv — 1,400+ titles with IMDb/TMDB scores, genres, release year, runtime, seasons
+
 credits.csv — 9,900+ actor and director credits joinable to titles via id
 
 Both files were staged and loaded into Snowflake for transformation and analysis.
 
-Dashboard Views
+## Dashboard Views
 
 Genre Performance — Engagement and rating scores across 20 genres
 Catalog Trend — Release volume and ratings by decade
@@ -27,7 +28,7 @@ Talent Tiers — Top 50 voice actors ranked by catalog presence
 Genre Combos — Co-genre performance matrix (e.g. action+thriller, drama+romance)
 
 
-Methodology
+## Methodology
 
 Raw CSVs staged and loaded into Snowflake (RAW schema)
 SQL transformations built aggregated views per genre, decade, demand decile, and talent
@@ -37,7 +38,7 @@ Some fields (e.g. IMDb votes, season counts) contain nulls in the source — exc
 Final outputs exported as CSVs and visualized in Tableau Public
 
 
-Key Insights
+## Key Insights
 
 Documentation and Western genres lead in average engagement despite low title counts
 Top 10% of titles by popularity account for ~86% of total audience demand
@@ -45,9 +46,24 @@ Sentiment scores show weak positive correlation with IMDb ratings
 Drama+Thriller is the highest-volume genre combination
 
 
-Files
-FileDescriptionCrunchyroll.twbxPackaged Tableau workbook (includes all data)titles.csvRaw source — title metadata from Kagglecredits.csvRaw source — actor/director credits from KaggleCrunchyroll_Genre.csvGenre-level aggregatesCrunchyroll_Sentiment.csvCortex AI sentiment scoresCrunchyroll_Demand.csvDemand decile distributionCrunchyroll_Talent.csvVoice actor rankingsCrunchyroll_Decade.csvRelease trends by decadeCrunchyroll_GenreCombos.csvCo-genre matrix
+## Files
+Crunchyroll.twbx Packaged Tableau workbook (includes all data)
+
+titles.csv Raw source — title metadata from Kaggle
+
+credits.csv Raw source — actor/director credits from Kaggle
+
+Crunchyroll_Genre.csv  Genre-level aggregates
+
+Crunchyroll_Sentiment.csv Cortex AI sentiment scores
+
+Crunchyroll_Demand.csv Demand decile distribution
+
+Crunchyroll_Talent.csv Voice actor rankings
+
+Crunchyroll_Decade.csv Release trends by decade
+
+Crunchyroll_GenreCombos.csv Co-genre matrix
 
 Author
-Talay Kamali — Data Analyst
-Tableau Public Profile
+Talay Kamali
