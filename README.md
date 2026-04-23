@@ -39,4 +39,16 @@ Drama+Thriller is the highest-volume genre combination; Horror+Romance is the ra
 
 
 Files
-FileDescriptionCrunchyroll.twbxPackaged Tableau workbook (includes all data)Crunchyroll_Genre.csvGenre-level aggregatesCrunchyroll_Sentiment.csvCortex AI sentiment scoresCrunchyroll_Demand.csvDemand decile distributionCrunchyroll_Talent.csvVoice actor rankingsCrunchyroll_Decade.csvRelease trends by decadeCrunchyroll_GenreCombos.csvCo-genre matrix
+FileDescriptionCrunchyroll.twbx Packaged Tableau workbook (includes all data)
+
+Crunchyroll_Genre.csv Genre-level aggregates
+
+Crunchyroll_Sentiment.csv Cortex AI sentiment scores
+
+Crunchyroll_Demand.csv Demand decile distribution
+
+Crunchyroll_Talent.csv Voice actor rankings
+
+Crunchyroll_Decade.csv Release trends by decade
+
+Crunchyroll_GenreCombos.csvCo-genre matrix
