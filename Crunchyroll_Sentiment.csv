@@ -1,0 +1,902 @@
+ID,TITLE,TYPE,IMDB_SCORE,RELEASE_YEAR,ENGAGEMENT_SCORE,DESCRIPTION_SENTIMENT,SENTIMENT_BUCKET
+ts21930,Lupin the Third,SHOW,7.9,1971,6.56,0.45494354,Positive
+ts25177,Mobile Suit Gundam,SHOW,7.9,1979,6.6,0.25112313,Neutral
+ts35087,Galaxy Express 999,SHOW,7.8,1978,6.41,0.15549468,Neutral
+ts82387,Lupin the 3rd,SHOW,8,1977,4.17,0.33980107,Positive
+ts2846,Chōdenji Machine Voltes V,SHOW,8.1,1977,6.13,0.27770454,Neutral
+ts32935,Space Pirate Captain Harlock,SHOW,7.8,1978,6.05,0.17923713,Neutral
+ts32687,The Wonderful Adventures of Nils,SHOW,7.5,1980,6.37,-0.0040225806,Neutral
+ts53300,Princess Knight,SHOW,7.3,1967,6.6,0.30707428,Positive
+ts4889,The Adventures of the Little Prince,SHOW,7.1,1978,5.86,0.2075188,Neutral
+ts18639,Space Warrior Baldios,SHOW,7.8,1980,5.8,0.042812273,Neutral
+ts12564,Chargeman Ken!,SHOW,5.6,1974,3.96,0.026789393,Neutral
+ts20740,Dragon Ball Z,SHOW,8.8,1989,7.51,0.2992472,Neutral
+ts21560,Dragon Ball,SHOW,8.6,1986,7.32,0.45903322,Positive
+ts14127,Fist of the North Star,SHOW,8.3,1984,6.91,0.048006456,Neutral
+ts29377,Megabeast Investigator Juspion,SHOW,8.5,1985,6.51,0.21165492,Neutral
+ts42463,Samurai Pizza Cats,SHOW,7,1990,5.71,0.34821615,Positive
+ts46776,Gunbuster,SHOW,7.7,1988,6.36,0.12882715,Neutral
+ts29400,Kimagure Orange Road,SHOW,7.7,1987,6,0.57327753,Positive
+ts12311,Cat's Eye,SHOW,7.3,1983,6.03,0.12782277,Neutral
+ts12843,Arcadia of My Youth: Endless Orbit SSX,SHOW,7.6,1982,5.63,-0.055601627,Neutral
+ts66982,GoShogun,SHOW,6.6,1981,5.1,0.09407733,Neutral
+ts68963,Miss Machiko,SHOW,7.9,1981,5.98,0.27223048,Neutral
+ts37484,Osomatsu-kun,SHOW,7.5,1988,3.42,0.17690459,Neutral
+ts40897,Psycho Armor Govarian,SHOW,7.9,1983,6.17,0.0905912,Neutral
+ts18589,Dancougar – Super Beast Machine God,SHOW,7.1,1985,5.15,-0.17269196,Neutral
+ts22544,Six God Combination Godmars,SHOW,6.3,1981,4.79,0.16293065,Neutral
+ts20339,One Piece,SHOW,8.8,1999,7.68,0.52629024,Positive
+ts34435,Cowboy Bebop,SHOW,8.9,1998,7.63,0.012422452,Neutral
+ts724,FLCL,SHOW,8.1,2000,6.94,0.09581029,Neutral
+ts28078,Yu Yu Hakusho,SHOW,8.4,1992,7.23,0.19553602,Neutral
+ts29358,Ghost Stories,SHOW,8,2000,6.67,0.19143882,Neutral
+ts25252,Yu-Gi-Oh!,SHOW,7.2,1998,6.37,0.048498992,Neutral
+ts21034,InuYasha,SHOW,7.9,2000,7,0.22376972,Neutral
+ts28998,Mobile Suit Gundam Wing,SHOW,8,1995,6.46,0.17968827,Neutral
+ts34554,Rurouni Kenshin,SHOW,8.4,1996,7.22,0.22369055,Neutral
+ts10145,Case Closed,SHOW,8.5,1996,7,0.2793933,Neutral
+ts28125,Fighting Spirit,SHOW,8.8,2000,7.28,0.19600423,Neutral
+ts4242,Dragon Ball GT,SHOW,6.8,1996,6.36,0.22241753,Neutral
+ts26215,Mobile Fighter G Gundam,SHOW,7.5,1994,5.82,0.20696442,Neutral
+ts21278,Revolutionary Girl Utena,SHOW,8.1,1997,6.75,0.15372573,Neutral
+ts22286,Cardcaptor Sakura,SHOW,8,1998,6.92,0.14823447,Neutral
+ts28824,Street Fighter,SHOW,5.7,1995,4.88,0.72430867,Positive
+ts30820,Slam Dunk,SHOW,8.7,1993,7.21,0.21117909,Neutral
+ts87210,Mobile Suit Gundam Wing Endless Waltz,SHOW,7.7,1997,6.39,0.29615042,Neutral
+ts848,Boys Over Flowers,SHOW,7.4,1996,6.63,0.20575216,Neutral
+ts53340,The Mysterious Play,SHOW,7.8,1995,6.44,0.240366,Neutral
+ts28167,Martian Successor Nadesico,SHOW,7.5,1996,6.44,0.39487317,Positive
+ts6051,Boogiepop Phantom,SHOW,7.3,2000,5.73,0.15739767,Neutral
+ts12825,Blue Submarine No. 6,SHOW,6.7,1998,5.34,0.3484171,Positive
+ts10963,Flame of Recca,SHOW,7.2,1997,5.64,0.0797058,Neutral
+ts28574,Gravitation,SHOW,7.2,2000,5.66,0.14846706,Neutral
+ts3077,Ceres: Celestial Legend,SHOW,7.2,2000,6.08,0.19721687,Neutral
+ts62420,8 Man After,SHOW,6.4,1993,5.41,0.15687469,Neutral
+ts25067,Gasaraki,SHOW,6.3,1998,5.47,0.1997213,Neutral
+ts447,Legend of Black Heaven,SHOW,6.6,1999,3.39,0.6172949,Positive
+ts64,Blue Seed,SHOW,7,1994,6.03,0.1161826,Neutral
+ts31067,Jubei-chan the Ninja Girl: Secret of the Lovely Eyepatch,SHOW,7.3,1999,6.23,-0.0440501,Neutral
+ts51294,Soul Hunter,SHOW,7.5,1999,3.6,0.15743607,Neutral
+ts44887,Marmalade Boy,SHOW,6.3,1994,4.77,0.328299,Positive
+ts33070,Shamanic Princess,SHOW,6.5,1996,5.18,0.2254702,Neutral
+ts76736,Ronin Warriors: Message,SHOW,7.3,1991,5.5,0.3259006,Positive
+ts42574,Key the Metal Idol,SHOW,7.1,1994,4.94,0.23575088,Neutral
+ts6317,Dai-Guard,SHOW,7.1,1999,3.4,0.20040636,Neutral
+ts43291,Magic User's Club,SHOW,6,1999,5.25,0.089731395,Neutral
+ts34299,Lost Universe,SHOW,7,1998,6.18,0.23236951,Neutral
+ts25474,Tama and Friends,SHOW,7,1993,3.23,0.4224417,Positive
+ts31051,Space Pirate Mito,SHOW,4.8,1999,2.22,0.31132483,Positive
+ts13335,DNA²,SHOW,6.5,1994,5.66,0.34525922,Positive
+ts30997,Gokudo,SHOW,7.3,1999,5.54,0.36330152,Positive
+ts87877,Eat-Man '98,SHOW,6.6,1998,5.32,0.45889053,Positive
+ts40280,Princess Nine,SHOW,7.7,1998,3.7,0.18462092,Neutral
+ts2961,Eat-Man,SHOW,7.2,1997,5.69,0.16202247,Neutral
+ts21482,Fullmetal Alchemist: Brotherhood,SHOW,9.1,2009,7.81,0.22197378,Neutral
+ts22069,Naruto Shippūden,SHOW,8.7,2007,7.58,0.21383831,Neutral
+ts11313,DEATH NOTE,SHOW,9,2006,7.85,0.2419838,Neutral
+ts20305,Naruto,SHOW,8.4,2002,7.37,0.23003145,Neutral
+ts15151,Bleach,SHOW,8.2,2004,7.21,0.21731396,Neutral
+ts31799,Samurai Champloo,SHOW,8.6,2004,7.33,0.32598352,Positive
+ts20513,Fairy Tail,SHOW,8,2009,6.88,0.29971638,Neutral
+ts35155,Gurren Lagann,SHOW,8.3,2007,7.05,0.09774338,Neutral
+ts26050,Mushi-Shi,SHOW,8.5,2005,7.1,0.35892352,Positive
+ts29406,Gintama,SHOW,8.7,2006,7.06,0.07211487,Neutral
+ts20548,Monogatari,SHOW,8,2009,6.78,0.31601682,Positive
+ts22017,Mobile Suit Gundam 00,SHOW,8.1,2007,6.5,0.005345275,Neutral
+ts26322,Toradora!,SHOW,8,2008,7,0.2445619,Neutral
+ts47142,Ninja Scroll: The Series,SHOW,6.9,2003,5.73,0.16041477,Neutral
+ts29252,Happiness!,SHOW,5.4,2006,2.62,-0.009135313,Neutral
+ts31455,Yu-Gi-Oh! GX,SHOW,6.8,2004,6.25,0.53045356,Positive
+ts24199,Mobile Suit Gundam SEED,SHOW,7.7,2002,6.44,0.13808589,Neutral
+ts20308,Full Metal Panic!,SHOW,7.6,2002,6.32,0.18595757,Neutral
+ts53585,Natsume Yujin-cho,SHOW,8.1,2008,6.72,0.14578274,Neutral
+ts42441,Michiko & Hatchin,SHOW,7.5,2008,5.97,0.19625977,Neutral
+ts30083,Angel Beats!,SHOW,7.7,2010,6.72,0.16019282,Neutral
+ts12930,Beyblade: Metal Fusion,SHOW,6.1,2009,5.75,0.16079062,Neutral
+ts20593,Kenichi: The Mightiest Disciple,SHOW,8.1,2006,6.79,0.2628272,Neutral
+ts32478,Kaiji,SHOW,8.2,2007,6.87,0.13138433,Neutral
+ts20544,Ouran High School Host Club,SHOW,8.2,2006,7,-0.24088675,Neutral
+ts40775,Love Hina Again,SHOW,6.8,2002,5.59,0.26424208,Neutral
+ts26449,A Certain Magical Index,SHOW,6.9,2008,6.02,0.23531319,Neutral
+ts52881,Kimi ni Todoke: From Me to You,SHOW,7.8,2009,6.8,0.12551773,Neutral
+ts31181,Fruits Basket,SHOW,7.9,2001,6.51,0.21483256,Neutral
+ts29076,REBORN!,SHOW,7.7,2006,6.61,0.14995797,Neutral
+ts17906,Demon King Daimao,SHOW,6.7,2010,5.97,0.28049406,Neutral
+ts30079,Oreimo,SHOW,6.5,2010,5.65,0.1361077,Neutral
+ts33291,s-CRY-ed,SHOW,6.9,2001,6.02,0.30378816,Positive
+ts1401,Cromartie High School,SHOW,7.6,2003,5.98,0.26524606,Neutral
+ts33198,School Days,SHOW,6,2007,5.06,0.0019112197,Neutral
+ts23967,The Twelve Kingdoms,SHOW,8.1,2002,6.84,0.18452573,Neutral
+ts27365,Rosario + Vampire,SHOW,6.9,2008,6.26,-0.08670118,Neutral
+ts36105,Sgt. Frog,SHOW,7.7,2004,6.09,0.029813476,Neutral
+ts44317,Gankutsuou,SHOW,7.9,2004,6.61,0.21807964,Neutral
+ts31990,Genshiken,SHOW,6.9,2004,5.55,0.14627136,Neutral
+ts30146,Mischievous Kiss,SHOW,7.1,2010,6.24,0.051890366,Neutral
+ts26428,Yu-Gi-Oh! 5D's,SHOW,6.9,2008,6.15,0.16834043,Neutral
+ts32450,The Prince of Tennis,SHOW,6.9,2001,5.61,0.29685947,Neutral
+ts12816,Big Windup!,SHOW,7.6,2007,6.02,0.22886066,Neutral
+ts35960,Tenjho Tenge,SHOW,6.9,2004,6.03,0.054853838,Neutral
+ts16399,A Certain Scientific Railgun,SHOW,7.5,2009,5.96,0.56000096,Positive
+ts19187,Chi's Sweet Home,SHOW,7.9,2008,5.63,0.3036671,Positive
+ts21539,Digimon Fusion,SHOW,6.9,2010,5.44,0.14303194,Neutral
+tm176185,Fullmetal Alchemist the Movie: Conqueror of Shamballa,MOVIE,7.3,2005,6.33,0.16568755,Neutral
+ts30449,Hakuouki,SHOW,8,2010,5.67,0.23282662,Neutral
+ts25765,Vampire Knight,SHOW,7.3,2008,6.55,0.23443246,Neutral
+ts32519,Pretty Cure,SHOW,6.8,2004,5.64,0.23127909,Neutral
+ts33980,Lovely Complex,SHOW,8,2007,6.75,0.39084023,Positive
+ts177522,Library War,SHOW,7,2008,5.87,0.3803431,Positive
+ts1152,Emma: A Victorian Romance,SHOW,7.7,2005,5.45,0.18812242,Neutral
+ts41553,Hikaru no Go,SHOW,8.3,2001,6.47,0.3278891,Positive
+ts22020,Shugo Chara!,SHOW,7.3,2007,5.87,0.19838354,Neutral
+ts33072,Mobile Suit Gundam Seed Destiny,SHOW,7.1,2004,6.18,0.31288728,Positive
+ts24483,Saint Seiya The Lost Canvas,SHOW,8.1,2009,6.68,0.15816309,Neutral
+ts9686,Arakawa Under the Bridge,SHOW,7.1,2010,5.64,0.22386645,Neutral
+ts21852,The Law of Ueki,SHOW,7.2,2005,6.02,0.26529038,Neutral
+ts29956,The World God Only Knows,SHOW,7.3,2010,5.95,0.24063107,Neutral
+ts16771,Eyeshield 21,SHOW,7.7,2005,6.47,0.060817588,Neutral
+ts27189,Junjou Romantica,SHOW,7.7,2008,6.09,0.14595416,Neutral
+ts26444,Time of Eve,SHOW,7.8,2008,6.48,0.25591058,Neutral
+ts30502,Squid Girl,SHOW,7.6,2010,5.84,0.1768629,Neutral
+ts24467,Sweet Blue Flowers,SHOW,7,2009,5.08,0.5230215,Positive
+ts42557,Honey and Clover,SHOW,7.8,2005,6.3,0.24405473,Neutral
+ts53132,Cyborg 009: The Cyborg Soldier,SHOW,7.3,2001,5.62,0.100405395,Neutral
+ts28698,Kekkaishi,SHOW,7.6,2006,5.92,0.19578674,Neutral
+ts36530,Mazinger Edition Z: The Impact!,SHOW,7.3,2009,5.74,0.1201682,Neutral
+ts26931,H2O: Footprints in the Sand,SHOW,6,2008,5.06,0.06642321,Neutral
+ts31511,Peacemaker Kurogane,SHOW,7.2,2003,5.96,0.20938383,Neutral
+ts2718,Cosmo Warrior Zero,SHOW,6.9,2001,5.65,-0.029135324,Neutral
+ts11645,Ah My Buddha!!,SHOW,5.9,2005,5.33,0.25821614,Neutral
+ts39260,Yakitate!! Japan,SHOW,7.7,2004,6.18,0.28558686,Neutral
+ts27114,Kaiba,SHOW,8.1,2008,6.58,0.14945488,Neutral
+ts39338,Tetsujin 28,SHOW,6.6,2004,5.24,-0.11808332,Neutral
+ts35033,Nagasarete Airanto,SHOW,6.6,2007,5.47,0.30371192,Positive
+ts56437,Full Metal Panic? Fumoffu,SHOW,7.7,2003,6.36,0.18206412,Neutral
+ts23830,Tegami Bachi: Letter Bee,SHOW,7.3,2009,5.57,0.25451824,Neutral
+ts60873,Kyo Kara Maoh!,SHOW,7.5,2004,5.9,0.35851708,Positive
+ts5606,Aria the Animation,SHOW,8.4,2005,6.6,0.2810958,Neutral
+ts33495,Mushi-Uta,SHOW,6,2007,2.81,0.27912277,Neutral
+ts47460,The Galaxy Railways,SHOW,6.9,2003,5.57,0.020540513,Neutral
+ts26155,True Tears,SHOW,7.2,2008,5.67,0.02169392,Neutral
+ts30503,Heroman,SHOW,7.1,2010,5.58,0.09396591,Neutral
+ts25824,Haruka Nogizaka's Secret,SHOW,6.7,2008,4.54,0.3057923,Positive
+ts24421,Pandora Hearts,SHOW,7.2,2009,5.78,0.07076928,Neutral
+ts41111,Hanasakeru Seishōnen,SHOW,7.3,2009,4.9,0.16407232,Neutral
+ts24469,Saki,SHOW,7.2,2009,5.5,0.19758068,Neutral
+ts72541,Ramen Fighter Miki,SHOW,7.9,2006,5.46,0.20075053,Neutral
+ts83895,Full Metal Panic! The Second Raid,SHOW,7.7,2005,5.7,0.40285587,Positive
+ts24532,Please Teacher!,SHOW,6.9,2002,6.14,0.075122885,Neutral
+ts34617,Zombie-Loan,SHOW,6,2007,5.08,0.38024125,Positive
+ts30496,Star Driver,SHOW,6.1,2010,5,0.23007466,Neutral
+ts63557,Izumo: Flash of a Brave Sword,SHOW,5.6,2005,4.94,0.34568265,Positive
+ts33241,Time Jam: Valerian & Laureline,SHOW,7.3,2007,5.41,0.20940596,Neutral
+ts11581,DearS,SHOW,6.1,2004,5.31,0.25706816,Neutral
+ts25464,Neo Angelique Abyss,SHOW,6.5,2008,3.16,0.53623724,Positive
+ts25680,The Tower of Druaga: The Aegis of Uruk,SHOW,6.6,2008,5.59,0.45346287,Positive
+ts35062,Hayate the Combat Butler,SHOW,6.6,2007,5.13,0.09284866,Neutral
+ts4142,Elemental Gelade,SHOW,6.8,2005,5.68,0.17969193,Neutral
+ts47193,Ultra Maniac,SHOW,7.6,2003,5.55,0.12300538,Neutral
+ts44050,Please Twins,SHOW,6.3,2003,5.51,0.13616642,Neutral
+ts55248,Super GALS!,SHOW,7,2001,5.81,0.41886988,Positive
+ts12740,07-Ghost,SHOW,6.9,2009,5.65,0.1738837,Neutral
+ts57758,Sketchbook ~full color's~,SHOW,7.5,2007,5.03,0.41026378,Positive
+ts32189,Stellvia of the Universe,SHOW,6.2,2003,4.77,0.16854788,Neutral
+ts32848,Shining Tears X Wind,SHOW,5.2,2007,4.1,0.14327702,Neutral
+ts26720,Koihime Muso,SHOW,6.6,2008,5.58,0.32663897,Positive
+ts57008,Pilot Candidate,SHOW,5.6,2002,3.53,0.23020066,Neutral
+ts45590,"Yamibo - Darkness, the Hat, and the Travelers of the Books",SHOW,6.5,2003,4.94,0.2326142,Neutral
+ts85831,Looking Up at the Half-Moon,SHOW,7,2006,3.47,0.22515377,Neutral
+ts40788,The Tower of Druaga: the Sword of Uruk,SHOW,6.7,2009,5.74,0.66826797,Positive
+ts23568,White Album,SHOW,6.3,2009,4.57,0.40214086,Positive
+ts30037,Moyashimon,SHOW,5.2,2010,2.43,0.25158462,Neutral
+ts9567,11eyes,SHOW,5.8,2009,5.4,0.27228078,Neutral
+ts31545,Interlude,SHOW,6.6,2004,4.18,0.14398214,Neutral
+ts43417,The Third: The Girl with the Blue Eye,SHOW,6.6,2006,4.45,0.17969081,Neutral
+ts34154,Myself; Yourself,SHOW,6.5,2007,5.04,0.2532967,Neutral
+ts178815,Shin Koihime musô: Otome tairan,SHOW,7,2010,3.23,0.47169423,Positive
+ts3358,Air Master,SHOW,6.8,2003,6.38,0.067409866,Neutral
+ts23150,Modern Magic Made Simple,SHOW,5.6,2009,3.73,0.17967229,Neutral
+ts38342,Inukami!,SHOW,6.7,2006,4.94,0.27286956,Neutral
+ts25979,Hyakko,SHOW,6.9,2008,5.57,0.08856712,Neutral
+ts45825,Pita Ten,SHOW,7.4,2002,3.48,0.090168715,Neutral
+ts23469,Ristorante Paradiso,SHOW,7.3,2009,5.48,0.3265713,Positive
+ts29888,Sound of the Sky,SHOW,7,2010,5.77,0.22948092,Neutral
+ts60066,Soul Link,SHOW,6,2006,4.61,0.2579149,Neutral
+ts4514,Chance Pop Session,SHOW,6.6,2001,5.09,0.16166027,Neutral
+ts15147,Blassreiter,SHOW,6.7,2008,5.29,0.23258609,Neutral
+ts27188,Kamen no Maid Guy,SHOW,6.3,2008,5.32,-0.035452202,Neutral
+ts55976,Gakuen Alice,SHOW,7.2,2004,5.62,0.36985776,Positive
+ts43162,Ninja Nonsense,SHOW,7.2,2004,6.2,0.2628434,Neutral
+ts189307,Mahoraba: Heartful Days,SHOW,7.4,2005,3.48,0.13872261,Neutral
+ts27409,Glass Mask,SHOW,8.3,2005,6.13,0.31151825,Positive
+ts27245,Koi Koi Seven,SHOW,6.1,2005,4.97,0.3544527,Positive
+ts17078,Canvas 2 ~Niji Iro no Sketch~,SHOW,6.6,2005,4.9,0.32142478,Positive
+ts28370,Fairy Musketeers,SHOW,5.2,2006,2.48,0.13437401,Neutral
+ts186502,Shingu: Secret of the Stellar Wars,SHOW,7.4,2001,3.44,0.08946639,Neutral
+ts38184,Mon Colle Knights,SHOW,6.7,2001,6.22,0.091284655,Neutral
+ts184925,Fantastic Detective Labyrinth,SHOW,5,2007,2.91,0.19554982,Neutral
+ts34883,Kono Aozora ni Yakusoku wo,SHOW,4.1,2007,2.02,0.073537,Neutral
+ts80610,Earl and Fairy,SHOW,6.6,2008,4.28,0.14412884,Neutral
+ts32835,Hunter x Hunter,SHOW,9,2011,7.72,0.27447566,Neutral
+ts20433,JoJo's Bizarre Adventure,SHOW,8.4,2012,7.29,0.16830824,Neutral
+ts22244,Steins;Gate,SHOW,8.8,2011,7.5,0.044432316,Neutral
+ts20429,Sword Art Online,SHOW,7.6,2012,6.92,0.11012003,Neutral
+ts34087,Puella Magi Madoka Magica,SHOW,8.3,2011,6.97,0.43464106,Positive
+ts22232,The Future Diary,SHOW,7.6,2011,6.65,0.17893732,Neutral
+ts28014,Another,SHOW,7.6,2012,6.87,0.2095678,Neutral
+ts33772,Nichijou: My Ordinary Life,SHOW,8.3,2011,6.9,0.17228843,Neutral
+ts11151,Fate/Zero,SHOW,8.2,2011,6.94,0.30761015,Positive
+ts9246,Blue Exorcist,SHOW,7.5,2011,6.66,0.19379695,Neutral
+ts26933,From the New World,SHOW,8,2012,6.65,0.20188321,Neutral
+ts7708,anohana: The Flower We Saw That Day,SHOW,8.2,2011,7.09,0.43201044,Positive
+ts27586,Magi,SHOW,7.8,2012,6.78,0.35459143,Positive
+ts39133,Hyouka,SHOW,7.8,2012,6.71,0.3425136,Positive
+ts76614,Thermae Romae,SHOW,6.1,2012,4.85,0.1458994,Neutral
+ts22249,Kuroko's Basketball,SHOW,8.3,2012,7.1,0.22023904,Neutral
+ts26929,My Little Monster,SHOW,7.3,2012,6.58,0.38225326,Positive
+ts27050,K-Project,SHOW,7,2012,5.97,0.11028197,Neutral
+ts26925,Polar Bear Cafe,SHOW,8.1,2012,6.28,0.19678855,Neutral
+ts11779,Accel World,SHOW,7.1,2012,6.27,0.10704058,Neutral
+ts32360,Usagi Drop,SHOW,8.3,2011,6.83,-0.046017073,Neutral
+ts11257,Chihayafuru,SHOW,8.1,2011,6.66,0.15538836,Neutral
+ts518,Beelzebub,SHOW,7.5,2011,6.51,0.16662183,Neutral
+ts15793,Daily Lives of High School Boys,SHOW,7.8,2012,6.56,0.3467417,Positive
+ts27094,Nyaruko: Crawling With Love!,SHOW,6.5,2012,5.82,0.015814438,Neutral
+ts26560,Space Brothers,SHOW,8.2,2012,6.6,0.1901621,Neutral
+ts21213,Yu-Gi-Oh! Zexal,SHOW,5,2011,4.96,0.27049664,Neutral
+ts14234,Cardfight!! Vanguard,SHOW,5.8,2011,4.83,0.30299103,Positive
+ts26691,Blast of Tempest,SHOW,7.5,2012,6.37,0.1338557,Neutral
+ts7872,Campione!,SHOW,6.8,2012,6.17,0.022923948,Neutral
+ts20670,Toriko,SHOW,7.2,2011,5.79,0.1237326,Neutral
+ts8677,Ghastly Prince Enma Burning Up,SHOW,6.7,2011,6.18,0.07645056,Neutral
+ts27922,NARUTO Spin-Off: Rock Lee & His Ninja Pals,SHOW,7.2,2012,5.71,0.33034122,Positive
+ts34293,YuruYuri: Happy Go Lily,SHOW,7.5,2011,6.24,-0.022541903,Neutral
+ts11511,Folktales from Japan,SHOW,7.5,2012,6.46,0.11508267,Neutral
+ts12173,The Ambition of Oda Nobuna,SHOW,6.4,2012,5.46,0.22861922,Neutral
+ts10585,Brave 10,SHOW,6.5,2012,5.75,0.11691279,Neutral
+ts34924,Hanasaku Iroha: Blossoms for Tomorrow,SHOW,7.7,2011,5.97,0.28813875,Neutral
+ts35044,A Bridge to the Starry Skies,SHOW,6.3,2011,5.05,0.3133653,Positive
+ts28083,Nisemonogatari,SHOW,7.7,2012,6.35,0.23175363,Neutral
+ts44764,The New Prince of Tennis,SHOW,7.5,2012,5.61,0.03376756,Neutral
+ts26590,Teekyu,SHOW,6.3,2012,5.07,0.17942362,Neutral
+ts26766,Ixion Saga: Dimension Transfer,SHOW,6.5,2012,4.82,0.28253153,Neutral
+ts33973,Sket Dance,SHOW,7.6,2011,6.06,0.16926233,Neutral
+ts26895,Muv-Luv Alternative: Total Eclipse,SHOW,6.6,2012,5.5,0.039884187,Neutral
+ts26817,Inferno Cop,SHOW,6.6,2012,5.05,0.34852988,Positive
+ts34953,A Dark Rabbit has Seven Lives,SHOW,5.1,2011,4.35,0.21348557,Neutral
+ts4204,Dragon Crisis!,SHOW,5.9,2011,4.7,0.08958177,Neutral
+ts32606,Kamisama Dolls,SHOW,6.7,2011,5.5,0.3179587,Positive
+ts27839,Sengoku Collection,SHOW,6.8,2012,3.74,0.18784857,Neutral
+ts4773,DD Fist of the North Star,SHOW,6.5,2011,4.86,0.10013731,Neutral
+ts53007,Saki Episode of Side A,SHOW,7.1,2012,3.3,0.27440444,Neutral
+ts32870,gdgd Fairies,SHOW,7,2011,5.49,0.21194534,Neutral
+ts12574,Chitose Get You!!,SHOW,5.7,2012,4.95,0.09253594,Neutral
+ts30007,Tamayura: Hitotose,SHOW,6.7,2011,5.05,0.42125192,Positive
+ts18755,Battle Girls: Time Paradox,SHOW,6.4,2011,5.82,0.36718437,Positive
+ts1118,Ebiten,SHOW,4.8,2012,2.58,-0.2683401,Neutral
+ts33166,"You're Being Summoned, Azazel-san",SHOW,7.2,2011,5.99,0.12571168,Neutral
+ts27564,Wooser's Hand-to-Mouth Life,SHOW,5.7,2012,3.61,0.12191514,Neutral
+ts27727,Recorder and Randsell,SHOW,6.3,2012,3.95,0.34018174,Positive
+ts27861,Poyopoyo,SHOW,8.8,2012,6.15,0.44937146,Positive
+ts34548,Morita-san wa Mukuchi,SHOW,5.8,2011,3.81,-0.05623372,Neutral
+ts39184,Upotte!!,SHOW,6.6,2012,4.82,0.30854958,Positive
+ts20682,Attack on Titan,SHOW,9,2013,7.83,0.26231003,Neutral
+ts20112,Haikyu!!,SHOW,8.8,2014,7.46,0.1469788,Neutral
+ts20202,Tokyo Ghoul,SHOW,7.8,2014,7.08,0.09970934,Neutral
+ts20249,Your Lie in April,SHOW,8.5,2014,7.39,0.29528108,Neutral
+ts20250,Parasyte -the maxim-,SHOW,8.3,2014,7.23,0.09952453,Neutral
+ts44387,My Teen Romantic Comedy SNAFU,SHOW,8,2013,6.86,0.023435453,Neutral
+ts34950,KILL la KILL,SHOW,7.9,2013,6.92,0.17674316,Neutral
+ts34193,The Devil Is a Part-Timer!,SHOW,7.6,2013,6.43,0.015749728,Neutral
+ts20014,Sailor Moon Crystal,SHOW,7.8,2014,6.58,0.22620583,Neutral
+ts22386,RWBY,SHOW,7.4,2013,5.61,0.31449133,Positive
+ts33329,Date a Live,SHOW,6.9,2013,6.41,0.09075361,Neutral
+ts20683,Log Horizon,SHOW,7.6,2013,6.52,0.18981485,Neutral
+ts41161,Noragami,SHOW,7.9,2014,6.96,0.27759847,Neutral
+ts20225,Yona of the Dawn,SHOW,8,2014,6.88,0.3309621,Positive
+ts18865,Danganronpa: The Animation,SHOW,6.8,2013,6.17,0.1340001,Neutral
+ts20252,Trinity Seven,SHOW,6.9,2014,5.95,0.1979516,Neutral
+ts22426,The Irregular at Magic High School,SHOW,7.1,2014,6.23,0.35388073,Positive
+ts35487,Blue Spring Ride,SHOW,7.5,2014,6.71,0.31211853,Positive
+ts4696,Fate/stay night [Unlimited Blade Works],SHOW,8,2014,6.76,0.20763688,Neutral
+ts35492,Nisekoi,SHOW,7.4,2014,6.57,0.11445553,Neutral
+ts33718,Free!,SHOW,7.4,2013,6.55,0.25131094,Neutral
+ts32818,Maoyu: Archenemy & Hero,SHOW,7,2013,6.03,0.15680924,Neutral
+ts20201,World Trigger,SHOW,7.5,2014,6.21,0.122732215,Neutral
+ts20709,Yowamushi Pedal,SHOW,7.7,2013,6.17,0.10124195,Neutral
+ts20240,Strike the Blood,SHOW,7,2013,5.98,0.20602912,Neutral
+ts33317,Gargantia on the Verdurous Planet,SHOW,7.3,2013,6.1,0.085015796,Neutral
+ts44298,Non Non Biyori,SHOW,7.8,2013,6.27,0.19573694,Neutral
+ts20226,The Fruit of Grisaia,SHOW,7.1,2014,5.89,0.19965914,Neutral
+ts56820,Yuki Yuna Is a Hero,SHOW,6.8,2014,5.83,0.2562673,Neutral
+ts20219,Terra Formars,SHOW,6.4,2014,5.7,0.51702344,Positive
+ts20807,Ace of Diamond,SHOW,8.2,2013,6.62,0.41171503,Positive
+ts20778,The World is Still Beautiful,SHOW,7.4,2014,6.11,0.14064935,Neutral
+ts44098,Yu-Gi-Oh! Arc-V,SHOW,7,2014,5.03,0.28651702,Neutral
+ts37196,Gundam Build Fighters,SHOW,7.4,2013,5.75,0.2900792,Neutral
+ts22417,Mischief of the Gods,SHOW,7.1,2014,5.64,0.13987313,Neutral
+ts20227,Persona 4 The Golden Animation,SHOW,6.3,2014,5.55,0.3086756,Positive
+ts33694,Oreshura,SHOW,6.4,2013,5.08,0.20496565,Neutral
+ts36927,Fate/kaleid liner Prisma Illya,SHOW,6.1,2013,5.33,0.14096524,Neutral
+ts32231,Mushibugyou,SHOW,6.5,2013,4.73,0.20108134,Neutral
+ts20063,Aldnoah.Zero,SHOW,7.2,2014,6.25,0.029723397,Neutral
+ts33840,Nagi-Asu: A Lull in the Sea,SHOW,7.3,2013,6.06,0.30526608,Positive
+ts20306,Dai Shogun - Great Revolution,SHOW,5.5,2014,5.38,0.15974388,Neutral
+ts20206,Love Stage!!,SHOW,7.4,2014,5.91,0.27717286,Neutral
+ts34755,Gatchaman Crowds,SHOW,6.8,2013,5.53,0.15981166,Neutral
+ts23262,Is the Order a Rabbit?,SHOW,7,2014,5.76,0.2820526,Neutral
+ts20222,I Can't Understand What My Husband Is Saying,SHOW,6.7,2014,5.83,0.4088557,Positive
+ts22348,Nanana's Buried Treasure,SHOW,6.5,2014,4.6,0.20742998,Neutral
+ts43922,Witch Craft Works,SHOW,6.8,2014,6.03,0.26836878,Neutral
+ts55080,Tonari no Seki-kun: The Master of Killing Time,SHOW,7.2,2014,5.71,0.12542637,Neutral
+ts32776,"Problem Children Are Coming from Another World, Aren't They?",SHOW,7.2,2013,6.06,0.5438159,Positive
+ts56862,Magic Kaito 1412,SHOW,7.4,2014,5.96,0.10155314,Neutral
+ts20312,Brynhildr in the Darkness,SHOW,6.7,2014,5.79,0.14222276,Neutral
+ts20015,When Supernatural Battles Became Commonplace,SHOW,6.5,2014,5.21,-0.12649111,Neutral
+ts22423,Inugami-san to Nekoyama-san,SHOW,6,2014,4.02,0.13092585,Neutral
+ts33902,The Eccentric Family,SHOW,7.7,2013,5.77,0.27769354,Neutral
+ts79726,Unlimited Psychic Squad,SHOW,7.2,2013,6.01,0.30586803,Positive
+ts32800,Theatre of Darkness: Yamishibai,SHOW,7.1,2013,5.8,0.16876239,Neutral
+ts55113,White Album 2,SHOW,7.3,2013,5.48,-0.123193435,Neutral
+ts20212,Hamatora,SHOW,7,2014,5.75,0.06829246,Neutral
+ts32201,The Troubled Life of Miss Kotoura,SHOW,6.9,2013,5.41,0.6223359,Positive
+ts44217,Love Lab,SHOW,6.9,2013,5.35,0.12958847,Neutral
+ts58384,My Mental Choices Are Completely Interfering with my School Romantic Comedy,SHOW,7.7,2013,5.95,0.07219614,Neutral
+ts57972,My Big Sister Arrived,SHOW,5.6,2014,4.37,0.43377396,Positive
+ts6358,Denki-gai,SHOW,6.5,2014,5.09,0.43848544,Positive
+ts77637,Servant x Service,SHOW,7,2013,5.57,0.289268,Neutral
+ts534,Dramatical Murder,SHOW,5.8,2014,4.41,0.26090437,Neutral
+ts21362,If Her Flag Breaks,SHOW,6,2014,4.6,0.21782419,Neutral
+ts20073,Survival Game Club,SHOW,7.4,2014,6.23,0.11417112,Neutral
+ts17721,Encouragement of Climb,SHOW,6.9,2013,5.29,0.21387154,Neutral
+ts33243,Walkure Romanze,SHOW,6.2,2013,5.54,0.3577206,Positive
+ts20018,Blade Dance of Elementalers,SHOW,6.4,2014,5.19,0.31267804,Positive
+ts20091,HaNaYaMaTa,SHOW,7,2014,6.04,0.25444084,Neutral
+ts20075,Orenchi no Furo Jijo,SHOW,6.3,2014,5.49,0.12644172,Neutral
+ts44018,Nobunaga Concerto,SHOW,7,2014,5.46,0.24016583,Neutral
+ts77866,Miss Monochrome - The Animation,SHOW,5.9,2013,4.2,0.14314464,Neutral
+ts12341,Aiura,SHOW,6.2,2013,5.07,0.2749838,Neutral
+ts34195,義風堂々!! 兼続と慶次,SHOW,7.1,2013,6.21,0.26149324,Neutral
+ts9710,Arpeggio of Blue Steel: Ars Nova,SHOW,7.2,2013,6.08,0.087217554,Neutral
+ts20265,Blade and Soul,SHOW,6,2014,5.32,0.23348989,Neutral
+ts58504,Gingitsune: Messenger Fox of the Gods,SHOW,7.4,2013,5.81,0.31114945,Positive
+ts57334,Future Card Buddyfight,SHOW,6.6,2014,5.72,0.14828137,Neutral
+ts85663,BONJOUR♪Sweet Love Patisserie,SHOW,5.5,2014,4.62,0.15156041,Neutral
+ts12823,Arata: The Legend,SHOW,6.7,2013,4.94,0.13599503,Neutral
+ts22429,Chaika - The Coffin Princess,SHOW,6.9,2014,5.45,0.27714485,Neutral
+ts78887,Makai Ōji: Devils and Realist,SHOW,6.4,2013,5.11,0.19996256,Neutral
+ts54083,Ai-Mai-Mi,SHOW,5.6,2013,4.88,0.17876384,Neutral
+ts79069,The Pilot's Love Song,SHOW,7,2014,5.61,0.17952344,Neutral
+ts80797,Magimoji Rurumo,SHOW,6.7,2014,5.6,0.19376427,Neutral
+ts127426,Donyatsu,SHOW,5.7,2013,4.47,0.24739887,Neutral
+ts55904,Himegoto,SHOW,5.1,2014,4.5,0.1321246,Neutral
+ts33037,Sparrow's Hotel,SHOW,5,2013,3.95,0.14560042,Neutral
+ts33283,Senyu.,SHOW,6.8,2013,5.04,0.18445076,Neutral
+ts75865,"Wake Up, Girls！",SHOW,6.6,2014,5.41,0.2274746,Neutral
+ts33520,GJ Club,SHOW,6.9,2013,5.24,0.12874357,Neutral
+ts19223,Da Capo III,SHOW,6.5,2013,3.11,0.28060463,Neutral
+ts55288,A Town Where You Live,SHOW,5.4,2013,4.47,0.27668068,Neutral
+ts23080,Wonder Momo,SHOW,4.9,2014,3.74,0.2105198,Neutral
+ts80652,Majin Bone,SHOW,7.3,2014,3.29,0.20322303,Neutral
+ts23081,Rowdy Sumo Wrestler Matsutaro!!,SHOW,5.8,2014,4.61,0.35382456,Positive
+ts33517,Mangirl!,SHOW,4.9,2013,4.13,0.11857395,Neutral
+ts44167,Nobunagun,SHOW,6.7,2014,5.48,0.060659885,Neutral
+ts56788,Robot Girls Z,SHOW,5.8,2014,4.3,0.124237634,Neutral
+ts34796,Chronicles of the Going Home Club,SHOW,6.7,2013,3.16,-0.027291281,Neutral
+ts58393,Strange+,SHOW,5.4,2014,4.09,0.23749419,Neutral
+ts35014,Muromi-san,SHOW,6.6,2013,3.16,0.22906613,Neutral
+ts20067,Girl Friend BETA,SHOW,3.8,2014,4.37,0.303666,Positive
+ts37539,One-Punch Man,SHOW,8.7,2015,7.55,0.15696016,Neutral
+ts38725,My Hero Academia,SHOW,7.8,2016,6.49,0.30657664,Positive
+ts35201,Food Wars! Shokugeki no Soma,SHOW,8.2,2015,7.06,0.10634879,Neutral
+ts35573,Dragon Ball Super,SHOW,8.4,2015,7.16,0.12934878,Neutral
+ts39013,Mob Psycho 100,SHOW,8.6,2016,7.32,0.2952739,Neutral
+ts38785,Berserk,SHOW,6.8,2016,6.13,0.24103376,Neutral
+ts21984,Assassination Classroom,SHOW,8,2015,7.02,-0.1206266,Neutral
+ts38712,Kabaneri of the Iron Fortress,SHOW,7.2,2016,6.01,0.36150697,Positive
+ts44928,KonoSuba – God's blessing on this wonderful world!!,SHOW,7.8,2016,6.93,0.44085217,Positive
+ts41257,Re:ZERO -Starting Life in Another World-,SHOW,8.1,2016,6.85,0.5907425,Positive
+ts35578,Is It Wrong to Try to Pick Up Girls in a Dungeon?,SHOW,7.5,2015,6.38,0.23032652,Neutral
+ts37899,Overlord,SHOW,7.7,2015,6.84,0.18461245,Neutral
+ts42169,ERASED,SHOW,8.5,2016,7.4,0.118703336,Neutral
+ts47734,Yuri!!! on Ice,SHOW,8.4,2016,7.17,0.28239787,Neutral
+ts42256,Bungo Stray Dogs,SHOW,7.8,2016,6.76,0.37415993,Positive
+ts38116,Mobile Suit Gundam: Iron-Blooded Orphans,SHOW,7.9,2015,6.22,0.11953284,Neutral
+ts35275,Blood Blockade Battlefront,SHOW,7.2,2015,5.98,0.2159966,Neutral
+ts36073,Rokka - Braves of the Six Flowers,SHOW,6.9,2015,5.81,0.14253062,Neutral
+ts41489,Hitori no Shita: The Outcast,SHOW,6.8,2016,5.43,0.20458502,Neutral
+ts42043,March Comes in Like a Lion,SHOW,8.4,2016,6.78,0.192421,Neutral
+ts41487,91 Days,SHOW,7.7,2016,6.49,0.1372107,Neutral
+ts35577,God Eater,SHOW,7,2015,5.97,0.086118,Neutral
+ts38756,Twin Star Exorcists,SHOW,7.1,2016,6.32,0.24371515,Neutral
+ts35457,My Love Story!!,SHOW,7.8,2015,6.7,0.3456901,Positive
+ts55531,Saekano: How to Raise a Boring Girlfriend,SHOW,7,2015,5.67,0.07143678,Neutral
+ts36812,Attack on Titan: Junior High,SHOW,7.2,2015,6.31,0.1984358,Neutral
+ts38707,Ace Attorney,SHOW,6.4,2016,5.52,0.4754078,Positive
+ts41846,Orange,SHOW,7.7,2016,6.57,0.27277222,Neutral
+ts42211,Myriad Colors Phantom World,SHOW,6.2,2016,5.77,0.3416693,Positive
+ts35988,Snow White with the Red Hair,SHOW,7.8,2015,6.49,0.34292752,Positive
+ts53038,Tawawa on Monday,SHOW,5.6,2016,4.72,0.17977507,Neutral
+ts43171,Lupin the Third: The Italian Adventure,SHOW,7.7,2015,6.14,0.21913002,Neutral
+ts35459,Sound! Euphonium,SHOW,7.9,2015,6.5,0.30530205,Positive
+ts41280,Danganronpa 3: The End of Hope's Peak High School,SHOW,7.1,2016,5.55,0.26070425,Neutral
+ts32669,Triage X,SHOW,6,2015,5.55,0.14190556,Neutral
+ts42124,ReLIFE,SHOW,7.9,2016,6.51,0.16339846,Neutral
+ts38724,Flying Witch,SHOW,7.2,2016,5.94,0.23391944,Neutral
+ts42629,Dagashi Kashi,SHOW,6.1,2016,5.46,0.1934518,Neutral
+ts42102,And You Thought There Is Never a Girl Online?,SHOW,6.4,2016,5.36,-0.16211694,Neutral
+ts51384,Keijo!!!!!!!!,SHOW,6.7,2016,5.62,0.35584396,Positive
+ts55377,Anti-Magic Academy: The 35th Test Platoon,SHOW,6.4,2015,5.82,0.19320671,Neutral
+ts35355,Punch Line,SHOW,6.9,2015,5,0.16671239,Neutral
+ts51387,"Kiss Him, Not Me",SHOW,6.6,2016,6.17,0.31751102,Positive
+ts38748,Big Order,SHOW,4.7,2016,4.46,0.067881964,Neutral
+ts43073,Showa Genroku Rakugo Shinju,SHOW,6.9,2016,5.65,0.26889193,Neutral
+ts42206,Qualidea Code,SHOW,6,2016,4.7,0.22285831,Neutral
+ts38723,The Asterisk War,SHOW,6.8,2015,6.11,0.4941946,Positive
+ts38720,Kiznaiver,SHOW,7,2016,6.15,0.21868141,Neutral
+ts42262,Sweetness & Lightning,SHOW,7.2,2016,5.82,0.33766714,Positive
+ts53042,Bloodivores,SHOW,5.2,2016,4.87,0.09763695,Neutral
+ts42980,Schwarzes Marken,SHOW,5.9,2016,5.18,0.13401426,Neutral
+ts35466,Yamada-kun and the Seven Witches,SHOW,7.3,2015,6.52,0.18875708,Neutral
+ts52888,Tiger Mask W,SHOW,7.1,2016,5.58,0.18648115,Neutral
+ts51381,Occultic;Nine,SHOW,6.4,2016,4.85,0.07038792,Neutral
+ts43465,Absolute Duo,SHOW,6.3,2015,5.9,0.2652479,Neutral
+ts35329,Saint Seiya: Soul of Gold,SHOW,7.7,2015,6.35,0.29702315,Neutral
+ts51395,Digimon Universe: Appli Monsters,SHOW,6.9,2016,6.04,0.1730972,Neutral
+ts53030,Magic-Kyun! Renaissance,SHOW,7.3,2016,5.68,0.17060855,Neutral
+ts53008,Touken Ranbu: Hanamaru,SHOW,6.7,2016,5.34,0.1281831,Neutral
+ts53528,Koro Sensei Quest!,SHOW,6.7,2016,5.49,0.4417475,Positive
+ts53192,Magical Girl Raising Project,SHOW,7.3,2016,5.56,0.01203872,Neutral
+ts42251,Hundred,SHOW,6.4,2016,5.5,0.119893916,Neutral
+ts39022,Thunderbolt Fantasy,SHOW,8.2,2016,6.65,0.03487184,Neutral
+ts39025,Taboo Tattoo,SHOW,5.4,2016,5.31,0.14517926,Neutral
+ts57185,Mr. Osomatsu,SHOW,7.5,2015,5.97,0.21489088,Neutral
+ts38789,The Morose Mononokean,SHOW,7.1,2016,5.8,0.27939528,Neutral
+ts42160,Tales of Zestiria the X,SHOW,6.8,2016,5.81,0.38121125,Positive
+ts53435,Spiritpact,SHOW,7.6,2016,5.5,0.36768007,Positive
+ts38760,Space Patrol Luluco,SHOW,6.9,2016,5.72,0.25052577,Neutral
+ts78530,Owarimonogatari,SHOW,8.3,2015,5.78,0.31705603,Positive
+ts78866,Wakakozake,SHOW,6.7,2015,5.55,0.47849023,Positive
+ts38791,Alderamin on the Sky,SHOW,7.5,2016,6.12,0.50421196,Positive
+ts38786,This Art Club Has a Problem!,SHOW,6.6,2016,5.32,0.019909821,Neutral
+ts42263,Days,SHOW,7.3,2016,5.79,0.10104891,Neutral
+ts38708,Joker Game,SHOW,7.1,2016,5.64,0.10358094,Neutral
+ts43487,Sky Wizards Academy,SHOW,6.6,2015,5.65,0.30781856,Positive
+ts82050,Samurai Warriors,SHOW,6.6,2015,5.61,0.13987148,Neutral
+ts41927,NEW GAME!,SHOW,7.2,2016,5.91,0.24150977,Neutral
+ts41021,Bananya,SHOW,6.2,2016,5.09,0.04255959,Neutral
+ts43871,World Break: Aria of Curse for a Holy Swordsman,SHOW,7,2015,5.58,0.1478953,Neutral
+ts38714,The Lost Village,SHOW,5.3,2016,4.41,0.06711219,Neutral
+ts74785,"Actually, I Am...",SHOW,6.5,2015,6,0.27642724,Neutral
+ts56684,Danchigai,SHOW,5.7,2015,5.06,0.17390797,Neutral
+ts38790,Love Live! Sunshine!!,SHOW,7.1,2016,5.33,0.18288419,Neutral
+ts52835,To Be Hero,SHOW,6.8,2016,4.65,0.045651726,Neutral
+ts43892,Unlimited Fafnir,SHOW,5.6,2015,4.35,0.15255602,Neutral
+ts53930,ALL OUT!!,SHOW,6.8,2016,5.21,0.2954504,Neutral
+ts52836,The Numbers,SHOW,6.6,2016,5.1,0.05740865,Neutral
+ts47701,WWW.Working!!,SHOW,6.8,2016,4.92,0.18856813,Neutral
+ts75926,Comical Psychosomatic Medicine,SHOW,6.4,2015,5.43,0.8053563,Positive
+ts52962,Poco's Udon World,SHOW,7.5,2016,6.38,0.039155334,Neutral
+ts52872,Izetta: The Last Witch,SHOW,6.7,2016,5.77,0.044010933,Neutral
+ts42549,Seisen Cerberus: Ryuukoku no Fatalités,SHOW,5.8,2016,5.2,0.25864685,Neutral
+ts53043,Ao Oni The Animation,SHOW,5.2,2016,3.93,0.1367733,Neutral
+ts43887,KanColle: Kantai Collection,SHOW,5.9,2015,4.86,0.40059057,Positive
+ts58412,Military!,SHOW,5.4,2015,4.77,0.28382015,Neutral
+ts36717,Akagi,SHOW,7.9,2015,3.62,0.18546583,Neutral
+ts38787,Rewrite,SHOW,6,2016,4.74,0.15370536,Neutral
+ts37754,Lance N' Masques,SHOW,4.6,2015,4.64,0.23730145,Neutral
+ts36690,THE iDOLM@STER Cinderella Girls,SHOW,6.3,2015,4.6,0.2818722,Neutral
+ts53252,Brave Witches,SHOW,5.6,2016,4.47,0.16563615,Neutral
+ts42212,She and Her Cat -Everything Flows-,SHOW,7.5,2016,6.04,0.24098247,Neutral
+ts44943,B-PROJECT,SHOW,6.2,2016,4.88,0.32938686,Positive
+ts43211,Kagewani,SHOW,6.1,2015,3.99,0.15344782,Neutral
+ts77087,Komori-san Can't Decline!,SHOW,5.5,2015,4.37,-0.06481246,Neutral
+ts52886,Lostorage incited WIXOSS,SHOW,5.8,2016,4.61,0.25672197,Neutral
+ts134515,Onsen yôsei Hakone-chan,SHOW,5.4,2015,4.39,0.7523764,Positive
+ts53096,Monster Strike,SHOW,5,2015,3.87,0.21700974,Neutral
+ts42365,Tsukiuta. The Animation,SHOW,6.4,2016,2.92,0.48266906,Positive
+ts53273,Miss Bernard Said.,SHOW,6.3,2016,5.09,0.30550143,Positive
+ts42323,Amanchu!,SHOW,6.8,2016,5.33,0.15152842,Neutral
+ts78140,ETOTAMA,SHOW,7,2015,5.9,0.22762172,Neutral
+ts53069,Scorching Ping Pong Girls,SHOW,6.4,2016,4.54,0.42883068,Positive
+ts42350,The Highschool Life of a Fudanshi,SHOW,6.3,2016,4.73,0.2570108,Neutral
+ts41183,ISUCA,SHOW,5.8,2015,5.03,0.2615382,Neutral
+ts38738,Pan de Peace!,SHOW,5,2016,3.83,0.2005821,Neutral
+ts39020,Ange Vierge,SHOW,5.3,2016,4.26,0.055900246,Neutral
+ts133840,This Boy Is a Professional Wizard,SHOW,6.7,2016,4.35,0.18700683,Neutral
+ts52848,Cheating Craft,SHOW,6.9,2016,4.77,0.522585,Positive
+ts232892,Neko Neko Nihonshi,SHOW,7.6,2016,3.29,-0.5632677,Negative
+ts43264,Kowabon,SHOW,4.6,2015,3.86,0.2177718,Neutral
+ts46812,Sekko Boys,SHOW,6.1,2016,4.64,0.15928552,Neutral
+ts43046,AOKANA: Four Rhythm Across the Blue,SHOW,6.3,2016,5.48,0.31331763,Positive
+ts43287,JK-Meshi!,SHOW,7.3,2015,4.18,0.25412342,Neutral
+ts66548,Usakame,SHOW,5.4,2016,3.6,0.10638757,Neutral
+ts53002,Nyanbo!,SHOW,4.6,2016,4.27,0.12410809,Neutral
+ts38965,Active Raid,SHOW,5.2,2016,4.65,0.081689514,Neutral
+ts53540,Ninja Girl & Samurai Master,SHOW,7.5,2016,5.47,0.16212058,Neutral
+ts53720,Urawa no Usagi-chan,SHOW,5.3,2015,4.68,0.08324663,Neutral
+ts53089,I've Had Enough of Being a Magical Girl,SHOW,5.1,2016,4.34,0.3692622,Positive
+ts38726,Tonkatsu DJ Agetarō,SHOW,7.5,2016,3.53,0.52354866,Positive
+ts56647,Crane Game Girls,SHOW,6.2,2016,4.58,0.11052622,Neutral
+ts57067,Takamiya Nasuno Desu! Teekyu Spinoff,SHOW,5.5,2015,4.6,0.04216849,Neutral
+ts134409,Magical Somera-chan,SHOW,5.3,2015,3.12,0.10067343,Neutral
+ts74588,Landlord Is in Puberty!,SHOW,6,2016,5.05,0.03820357,Neutral
+ts42981,Please Tell Me! Galko-chan,SHOW,6.9,2016,5.38,0.015255695,Neutral
+ts55388,Onara Gorou,SHOW,6.1,2016,3.24,0.42416927,Positive
+ts94758,The Journey Home,SHOW,7.8,2015,3.47,0.28158498,Neutral
+ts42381,Wagamama High Spec,SHOW,4.2,2016,3.79,0.4492539,Positive
+ts70564,Rainy Cocoa,SHOW,3.6,2015,3.42,0.39598334,Positive
+ts21877,Cute High Earth Defense Club LOVE!,SHOW,7.4,2015,5.77,0.28085208,Neutral
+ts56255,Starmyu,SHOW,6.9,2015,5.67,0.57733977,Positive
+ts42504,Anne-Happy,SHOW,6.8,2016,5.58,0.19875708,Neutral
+ts43168,Ojisan and Marshmallow,SHOW,6.5,2016,5.62,0.30270553,Positive
+ts42264,BBK/BRNK,SHOW,6.2,2016,5.02,0.18245868,Neutral
+ts296797,Black Clover,SHOW,8.3,2017,7.16,0.39192313,Positive
+ts84141,Goblin Slayer,SHOW,7.5,2018,6.68,0.096518904,Neutral
+ts84230,That Time I Got Reincarnated as a Slime,SHOW,8.1,2018,7.07,0.10889918,Neutral
+ts56104,Boruto: Naruto Next Generations,SHOW,6.9,2017,6.42,0.27203846,Neutral
+ts75516,The Ancient Magus' Bride,SHOW,7.7,2017,6.75,0.23203978,Neutral
+ts77768,DARLING in the FRANXX,SHOW,7.4,2018,6.76,0.2507975,Neutral
+ts77726,Laid-Back Camp,SHOW,8.1,2018,6.54,0.22853257,Neutral
+ts89413,Friends Games,SHOW,6.3,2017,4.2,0.15334812,Neutral
+ts82228,Cells at Work!,SHOW,7.5,2018,6.52,0.4722765,Positive
+ts84280,Rascal Does Not Dream of Bunny Girl Senpai,SHOW,8.1,2018,7.09,0.11545444,Neutral
+ts77706,A Place Further Than the Universe,SHOW,8.2,2018,6.59,0.5163001,Positive
+ts53369,Miss Kobayashi's Dragon Maid,SHOW,7.7,2017,6.71,0.23860554,Neutral
+ts58045,Classroom of the Elite,SHOW,7.6,2017,6.75,0.35071528,Positive
+ts84364,Zombieland Saga,SHOW,7.1,2018,6.28,0.122623295,Neutral
+ts79723,Steins;Gate 0,SHOW,8.4,2018,6.97,0.19245744,Neutral
+ts77415,Junji Ito Collection,SHOW,6.7,2018,5.94,0.016428703,Neutral
+ts79546,MEGALOBOX,SHOW,7.8,2018,6.57,0.3242575,Positive
+ts78390,Golden Kamuy,SHOW,8,2018,6.38,0.31978938,Positive
+ts77518,Teasing Master Takagi-san,SHOW,7.7,2018,6.56,0.18995166,Neutral
+ts53433,Saga of Tanya the Evil,SHOW,7.6,2017,6.64,0.123822294,Neutral
+ts79331,Persona 5: The Animation,SHOW,6.7,2018,5.91,0.4985243,Positive
+ts82053,Angels of Death,SHOW,6.4,2018,6.01,0.424947,Positive
+ts77716,Citrus,SHOW,6.5,2018,5.6,0.16769078,Neutral
+ts78392,Hinamatsuri,SHOW,8,2018,6.67,0.1945665,Neutral
+ts53430,Seiren,SHOW,5.6,2017,5.41,0.2416311,Neutral
+ts58032,In Another World with My Smartphone,SHOW,6.5,2017,5.93,0.15983227,Neutral
+ts53365,Masamune-kun's Revenge,SHOW,6.4,2017,5.85,0.17402855,Neutral
+ts75838,Recovery of an MMO Junkie,SHOW,7.3,2017,6.31,0.19626927,Neutral
+ts82074,Yuuna and the Haunted Hot Springs,SHOW,6.8,2018,5.86,0.29745856,Neutral
+ts84403,DAKAICHI -I'm being harassed by the sexiest man of the year-,SHOW,7.2,2018,5.59,0.4709021,Positive
+ts77783,Record of Grancrest War,SHOW,7.1,2018,6.31,0.22934416,Neutral
+ts57802,My First Girlfriend is a Gal,SHOW,6.1,2017,5.97,0.29423946,Neutral
+ts75632,Cardcaptor Sakura: Clear Card,SHOW,7.9,2018,6.52,0.33271784,Positive
+ts75755,Anime-Gataris,SHOW,6.1,2017,5.2,0.24173078,Neutral
+ts79824,Sword Art Online Alternative: Gun Gale Online,SHOW,6.8,2018,6.16,0.1960997,Neutral
+ts58035,AHO-GIRL,SHOW,6.7,2017,6.07,0.07215615,Neutral
+ts75698,The Legend of the Galactic Heroes: Die Neue These,SHOW,7.6,2018,6.21,0.12138298,Neutral
+ts56105,Tsukigakirei,SHOW,7.7,2017,6.55,0.36085322,Positive
+ts58176,Knight's & Magic,SHOW,7.2,2017,6.02,0.13061634,Neutral
+ts79742,Saint Seiya: Saintia Sho,SHOW,5.6,2018,5.21,0.4254459,Positive
+ts55811,WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?,SHOW,7.2,2017,6.26,0.19704938,Neutral
+ts82109,Asobi Asobase - workshop of fun -,SHOW,7.8,2018,6.71,0.20673749,Neutral
+ts79359,Caligula,SHOW,5.5,2018,5.2,0.59905237,Positive
+ts53960,Granblue Fantasy: The Animation,SHOW,6.4,2017,5.35,0.32617977,Positive
+ts55813,Akashic Records of Bastard Magic Instructor,SHOW,7,2017,6.4,0.2779866,Neutral
+ts84431,SSSS.GRIDMAN,SHOW,7,2018,5.87,0.29657865,Neutral
+ts84415,Radiant,SHOW,6.7,2018,5.68,0.1396648,Neutral
+ts78393,GeGeGe no Kitaro,SHOW,7.4,2018,5.93,0.2746531,Neutral
+ts58041,Tsuredure Children,SHOW,7.3,2017,6.37,-0.08881779,Neutral
+ts75858,King's Game – The Animation,SHOW,4.9,2017,5.1,0.13662928,Neutral
+ts57945,Restaurant to Another World,SHOW,7.1,2017,5.89,0.37589186,Positive
+ts75770,Konohana Kitan,SHOW,7.2,2017,5.92,0.55012685,Positive
+ts56103,Eromanga Sensei,SHOW,5.5,2017,4.82,0.31594205,Positive
+ts79351,Love To-LIE-Angle,SHOW,6.1,2018,4.43,0.24222761,Neutral
+ts53359,Interviews with Monster Girls,SHOW,7.4,2017,6.15,0.30930135,Positive
+ts80138,Frankenstein Family,SHOW,5.3,2018,5.07,0.10667619,Neutral
+ts58030,Clean Freak! Aoyama-kun,SHOW,6.4,2017,5.55,0.43067667,Positive
+ts77769,Death March to the Parallel World Rhapsody,SHOW,6.7,2018,6.08,0.19751133,Neutral
+ts77785,Sanrio Boys,SHOW,7,2018,4.6,0.08532821,Neutral
+ts75757,Blend S,SHOW,6.9,2017,6.29,0.091000184,Neutral
+ts56657,Yu-Gi-Oh! VRAINS,SHOW,6,2017,4.9,0.20098902,Neutral
+ts77771,School Babysitters,SHOW,7.8,2018,6.13,0.14244726,Neutral
+ts53363,One Room,SHOW,4.8,2017,4.06,-0.31788543,Negative
+ts79044,Yotsuiro Biyori,SHOW,7.9,2018,5.47,0.42947298,Positive
+ts80096,Kakuriyo -Bed & Breakfast for Spirits-,SHOW,7.7,2018,6.52,0.10512067,Neutral
+ts82116,Harukana Receive,SHOW,6.4,2018,5.57,0.19841433,Neutral
+ts77787,Pop Team Epic,SHOW,6.9,2018,5.82,0.4061134,Positive
+ts84848,Tsurune,SHOW,7.3,2018,5.81,0.037833165,Neutral
+ts84472,Skull-face Bookseller Honda-san,SHOW,6.7,2018,5.2,0.43022445,Positive
+ts84305,Run with the Wind,SHOW,8.4,2018,6.44,0.272618,Neutral
+ts57946,GAMERS!,SHOW,6.7,2017,6.11,0.0051328507,Neutral
+ts86256,Psychic Princess,SHOW,8,2018,6.45,0.17855899,Neutral
+ts57494,Katsugeki: Touken Ranbu,SHOW,6.7,2017,5.66,0.32011357,Positive
+ts58040,Netsuzou Trap -NTR-,SHOW,4.9,2017,4.24,0.21618423,Neutral
+ts82223,The Master of Ragnarok & Blesser of Einherjar,SHOW,5.2,2018,4.27,0.22776492,Neutral
+ts75859,Sengoku Night Blood,SHOW,7.1,2017,5.75,-0.03571901,Neutral
+ts53356,Gabriel DropOut,SHOW,7.1,2017,5.71,0.20210177,Neutral
+ts77395,Anime Crimes Division,SHOW,8,2017,6.13,0.3162586,Positive
+ts58044,Saiyuki Reload Blast,SHOW,7.7,2017,6.23,0.22969984,Neutral
+ts53375,Kemono Friends,SHOW,6.5,2017,4.53,0.35499376,Positive
+ts77713,Basilisk: The Ouka Ninja Scrolls,SHOW,4.7,2018,4.73,0.1975208,Neutral
+ts79325,Umamusume: Pretty Derby,SHOW,6.9,2018,6.03,0.3171044,Positive
+ts75856,Love is Like a Cocktail,SHOW,6,2017,5.1,0.49243218,Positive
+ts53357,Fuuka,SHOW,6.3,2017,5.39,0.22225074,Neutral
+ts84464,Anima Yell!,SHOW,7.8,2018,6.02,0.53965473,Positive
+ts83187,Full Metal Panic! Invisible Victory,SHOW,7.5,2018,4.97,0.24766682,Neutral
+ts56112,Love Tyrant,SHOW,6.3,2017,5.3,0.24772747,Neutral
+ts89852,Homicide City,SHOW,7.5,2018,6.64,0.41050202,Positive
+ts82414,Muhyo & Roji's Bureau of Supernatural Investigation,SHOW,7.1,2018,5.9,0.4209487,Positive
+ts75776,Juni Taisen: Zodiac War,SHOW,6.6,2017,5.88,0.21908021,Neutral
+ts55801,Clockwork Planet,SHOW,5.3,2017,4.95,0.38347054,Positive
+ts77519,Katana Maidens: Toji no Miko,SHOW,5.4,2018,4.99,0.31437063,Positive
+ts77517,HAKYU HOSHIN ENGI,SHOW,6,2018,4.9,0.13456944,Neutral
+ts77773,IDOLiSH7,SHOW,7.3,2018,5.38,0.20845295,Neutral
+ts58357,Magical Circle Guruguru,SHOW,7.2,2017,5.61,0.18249662,Neutral
+ts75761,Dies Irae,SHOW,4.3,2017,4.22,0.29816133,Neutral
+ts80087,Dances with the Dragons,SHOW,6.1,2018,4.94,0.24305952,Neutral
+ts75905,Jigoku Shoujo: Yoi no Togi,SHOW,6.3,2017,5.2,0.290488,Neutral
+ts82039,Holmes of Kyoto,SHOW,6.7,2018,5.14,0.413473,Positive
+ts78454,Gundam Build Divers,SHOW,6.9,2018,5.74,0.62086815,Positive
+ts77788,Magical Girl Ore,SHOW,6.3,2018,5.38,0.12370723,Neutral
+ts84278,Ulysses: Jeanne d'Arc and the Alchemist Knight,SHOW,5,2018,4.94,0.1486161,Neutral
+ts79352,My Sweet Tyrant,SHOW,6.4,2018,5.36,0.03441409,Neutral
+ts80099,Isekai Izakaya: Japanese Food From Another World,SHOW,7.5,2018,5.64,0.06777799,Neutral
+ts75769,Kino's Journey: The Beautiful World,SHOW,7.2,2017,5.84,0.22825073,Neutral
+ts58049,THE REFLECTION,SHOW,5.9,2017,4.48,0.21330689,Neutral
+ts84552,As Miss Beelzebub Likes It.,SHOW,6.2,2018,5.12,-0.035169404,Neutral
+ts82037,Chio's School Road,SHOW,7.4,2018,5.88,0.12453714,Neutral
+ts75758,Code:Realize,SHOW,7.3,2017,5.22,0.16467461,Neutral
+ts82331,Angolmois: Record of Mongol Invasion,SHOW,7.1,2018,5.66,0.015874695,Neutral
+ts84395,Hinomaru Sumo,SHOW,7.3,2018,5.64,0.062471997,Neutral
+ts82105,Island,SHOW,5.2,2018,4.65,0.1746882,Neutral
+ts82215,Miss Caretaker of Sunohara-sou,SHOW,6.5,2018,5.67,0.23991957,Neutral
+ts77772,Hakata Tonkotsu Ramens,SHOW,7.1,2018,5.78,0.36330432,Positive
+ts56243,The World Yamizukan,SHOW,4.9,2017,4.76,0.27123636,Neutral
+ts56248,Kenka Banchou Otome: Girl Beats Boys,SHOW,6.5,2017,4.98,0.15781254,Neutral
+ts80091,Major 2nd,SHOW,7.8,2018,6.14,0.16812642,Neutral
+ts81087,Fist of the Blue Sky: Regenesis,SHOW,4.1,2018,4.28,0.17849968,Neutral
+ts77777,How to Keep a Mummy,SHOW,7.1,2018,6.1,0.3549365,Positive
+ts56253,The Silver Guardian,SHOW,6.1,2017,5.28,0.33129868,Positive
+ts84310,Jingai-san no Yome,SHOW,5,2018,4.17,0.17666984,Neutral
+ts58031,A Centaur's Life,SHOW,5.4,2017,5.21,0.40926513,Positive
+ts84687,Voice of Fox,SHOW,7.1,2018,6.25,0.30846298,Positive
+ts56252,Hinako Note,SHOW,7,2017,5.59,0.2387865,Neutral
+ts75774,Our Love Has Always Been 10 Centimeters Apart.,SHOW,6.8,2017,6.03,0.385069,Positive
+ts79329,Comic Girls,SHOW,6.9,2018,5.52,0.3727635,Positive
+ts75762,GARO -VANISHING LINE-,SHOW,7,2017,5.72,0.2689603,Neutral
+ts84522,Conception,SHOW,3.8,2018,4.5,0.083103195,Neutral
+ts56242,KADO: The Right Answer,SHOW,6.6,2017,5.74,0.24709119,Neutral
+ts56318,Room Mate,SHOW,5.2,2017,4.23,0.7316809,Positive
+ts84577,Merc Storia: The Apathetic Boy and the Girl in a Bottle,SHOW,5.9,2018,5.15,0.18178841,Neutral
+ts53289,ACCA: 13-Territory Inspection Dept.,SHOW,7.1,2017,5.77,0.28831196,Neutral
+ts82274,Drop Kick on My Devil!!,SHOW,6.2,2018,5.24,0.38986638,Positive
+ts82129,Phantom in the Twilight,SHOW,5.9,2018,4.42,0.16576806,Neutral
+ts82038,Mr. TONEGAWA Middle Management Blues,SHOW,7.1,2018,5.59,0.0072583584,Neutral
+ts77697,Today's Menu for the Emiya Family,SHOW,7.3,2017,6.05,0.62498367,Positive
+ts58143,Convenience Store Boy Friends,SHOW,6.4,2017,5.5,0.3002667,Positive
+ts58054,Chronos Ruler,SHOW,5.9,2017,4.89,0.14978026,Neutral
+ts75861,Two Car,SHOW,5,2017,3.66,0.3571015,Positive
+ts75867,TsukiPro the Animation,SHOW,3.4,2017,4.38,0.77110267,Positive
+ts77748,Slow Start,SHOW,6.6,2018,5.49,0.12288017,Neutral
+ts80083,Nil Admirari no Tenbin: Teito Genwaku Kitan,SHOW,7.2,2018,4.87,0.3409421,Positive
+ts58039,7O3X Fastest Finger First,SHOW,6.4,2017,4.71,0.32261682,Positive
+ts87037,ルパン三世 PART5,SHOW,7.9,2018,6.62,0.20369245,Neutral
+ts84277,Ms. Vampire Who Lives in My Neighborhood.,SHOW,6.4,2018,4.58,0.22685869,Neutral
+ts82107,HANEBADO!,SHOW,6.3,2018,5.47,0.52361065,Positive
+ts53305,Chaos;Child,SHOW,5.7,2017,4.76,0.15079278,Neutral
+ts77419,Märchen Mädchen,SHOW,6,2018,4.52,0.14374335,Neutral
+ts53373,Nyanko Days,SHOW,6.5,2017,5.06,0.3796176,Positive
+ts80089,You Don't Know GUNMA Yet.,SHOW,4.7,2018,3.68,0.28932872,Neutral
+ts82386,Lord of Vermilion: The Crimson King,SHOW,5.1,2018,4.55,0.18763565,Neutral
+ts77446,Ms. Koizumi Loves Ramen Noodles,SHOW,6.5,2018,5.43,0.43105575,Positive
+ts84401,UzaMaid!,SHOW,6.1,2018,5.62,0.22144821,Neutral
+ts80894,Planet With,SHOW,6.7,2018,4.81,0.11315178,Neutral
+ts53372,Hand Shakers,SHOW,3.1,2017,3.6,0.29563266,Neutral
+ts75763,Evil or Live,SHOW,5.9,2017,5.06,0.16298467,Neutral
+ts53304,Chiruran 1/2,SHOW,4,2017,3.28,0.75107366,Positive
+ts55761,Alice & Zoroku,SHOW,6.8,2017,5.77,0.15195915,Neutral
+ts58036,Elegant Yokai Apartment Life,SHOW,7,2017,5.47,0.21746178,Neutral
+ts53366,Marginal#4 Kiss Kara Tsukuru Big Bang,SHOW,5.7,2017,5.12,0.24300902,Neutral
+ts67979,Where Did It Come From?,SHOW,8.4,2017,3.63,0.19368325,Neutral
+ts58405,The Irresponsible Galaxy Tylor,SHOW,2.9,2017,3.35,0.32431707,Positive
+ts86157,"Welcome, Chitose-chan",SHOW,7.3,2018,5.94,0.31389606,Positive
+ts56326,The Laughing Salesman NEW,SHOW,7,2017,5.25,0.25598732,Neutral
+ts53358,ēlDLIVE,SHOW,6.3,2017,4.53,0.25435355,Neutral
+ts82024,We Rent Tsukumogami,SHOW,6.9,2018,5.89,0.3472036,Positive
+ts84491,Armor Shop for Ladies & Gentlemen,SHOW,5.2,2018,4.94,0.19625221,Neutral
+ts53431,Schoolgirl Strikers: Animation Channel,SHOW,5.8,2017,4.8,0.3611382,Positive
+ts58051,Angel's 3Piece!,SHOW,6.4,2017,5.42,0.46568438,Positive
+ts81981,Late Night! The Genius Bakabon,SHOW,6,2018,3.96,0.009210681,Neutral
+ts77786,The Ryuo's Work is Never Done!,SHOW,6.1,2018,5.11,0.0669012,Neutral
+ts56250,The Royal Tutor,SHOW,7.1,2017,5.82,0.15317236,Neutral
+ts89806,スナックワールド,SHOW,4.2,2017,2,0.46030968,Positive
+ts75863,Urahara,SHOW,5.6,2017,4.73,0.052433383,Neutral
+ts80088,Gurazeni: Money Pitch,SHOW,6.5,2018,5.92,0.18055846,Neutral
+ts84366,Himote House: A Share House of Super Psychic Girls,SHOW,8,2018,5.36,0.28354356,Neutral
+ts84063,"RErideD – Derrida, who leaps through time –",SHOW,6.2,2018,4.6,0.2193175,Neutral
+ts80077,Space Battleship Tiramisu,SHOW,6.2,2018,5.19,0.24718146,Neutral
+ts84333,Between the Sky and Sea,SHOW,5,2018,4.31,0.038876846,Neutral
+ts83598,Double Decker! Doug & Kirill,SHOW,7.3,2018,5.78,0.29821575,Neutral
+ts53374,Kirakira☆Precure a la Mode,SHOW,7.9,2017,4.76,0.3077901,Positive
+ts84237,Xuan Yuan Sword Luminary,SHOW,6.4,2018,5.89,0.059728496,Neutral
+ts84965,Operation Han-Gyaku-Sei Million Arthur,SHOW,6.1,2018,5.01,-0.04369409,Neutral
+ts57808,Hina Logic: From Luck & Logic,SHOW,5.3,2017,5,0.42185536,Positive
+ts82036,Music Girls,SHOW,5.6,2018,4.29,0.23100892,Neutral
+ts53364,Minami Kamakura High School Girls Cycling Club,SHOW,6.4,2017,4.84,0.24059737,Neutral
+ts78563,gdgd men's Party,SHOW,6.2,2018,2.75,0.27248263,Neutral
+ts87466,Demon Slayer: Kimetsu no Yaiba,SHOW,8.7,2019,7.6,0.23543912,Neutral
+ts222852,Jujutsu Kaisen,SHOW,8.6,2020,7.4,0.406465,Positive
+ts84631,The Rising of the Shield Hero,SHOW,8.1,2019,7.13,0.25800604,Neutral
+ts84657,Kaguya-sama: Love is War,SHOW,8.5,2019,7.25,0.40253365,Positive
+ts89550,Fire Force,SHOW,7.6,2019,6.79,0.2319096,Neutral
+ts87563,Dr. Stone,SHOW,8.2,2019,7.16,0.1346048,Neutral
+ts84633,The Promised Neverland,SHOW,8.4,2019,7.39,0.12429611,Neutral
+ts224068,The Misfit of Demon King Academy,SHOW,7.3,2020,6.54,0.1071614,Neutral
+ts224165,Tower of God,SHOW,7.7,2020,6.78,0.30488572,Positive
+ts232804,Digimon Adventure,SHOW,7,2020,5.87,0.2285235,Neutral
+ts89560,Given,SHOW,8.3,2019,7.07,0.27203068,Neutral
+ts87564,Arifureta: From Commonplace to World's Strongest,SHOW,7.1,2019,6.47,0.1673955,Neutral
+ts217704,Ascendance of a Bookworm,SHOW,7.9,2019,6.63,0.15090135,Neutral
+ts217722,Welcome to Demon School! Iruma-kun,SHOW,7.6,2019,6.66,0.34418434,Positive
+ts225545,The God of High School,SHOW,7.3,2020,6.57,0.1834797,Neutral
+ts226373,Moriarty the Patriot,SHOW,8,2020,6.66,0.26668793,Neutral
+ts84640,Domestic Girlfriend,SHOW,6.8,2019,6.31,0.24647413,Neutral
+ts225079,Uzaki-chan Wants to Hang Out!,SHOW,6.9,2020,6.22,0.4859934,Positive
+ts88363,"Why the Hell are You Here, Teacher!?",SHOW,6.3,2019,6.07,0.26889712,Neutral
+ts216555,"Science Fell in Love, So I Tried to Prove It",SHOW,6.9,2020,6.04,0.22604595,Neutral
+ts87375,Wise Man’s Grandchild,SHOW,6.8,2019,6.21,0.16709179,Neutral
+ts222729,Toilet-Bound Hanako-kun,SHOW,7.8,2020,6.01,0.32633293,Positive
+ts223380,"Bofuri: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",SHOW,7.5,2020,6.2,0.15553819,Neutral
+ts221078,In/Spectre,SHOW,6.6,2020,5.95,0.2925878,Neutral
+ts255407,Dragon Quest: The Adventure of Dai,SHOW,8,2020,6.53,0.27684784,Neutral
+ts86186,The Quintessential Quintuplets,SHOW,7.7,2019,6.81,0.1567643,Neutral
+ts186408,Keep Your Hands Off Eizouken!,SHOW,8.2,2020,6.75,0.6022603,Positive
+ts220153,Plunderer,SHOW,6.3,2020,5.95,0.13874492,Neutral
+ts87471,Darwin's Game,SHOW,7.3,2020,6.3,0.22757074,Neutral
+ts102805,Fate/Grand Order - Absolute Demonic Front: Babylonia,SHOW,7.3,2019,6.2,0.19445817,Neutral
+ts90314,Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?,SHOW,5.1,2019,4.53,0.37101915,Positive
+ts223258,Gleipnir,SHOW,6.8,2020,6.12,0.18617015,Neutral
+ts86176,My Roommate is a Cat,SHOW,7.7,2019,6.36,0.33948368,Positive
+ts213189,Isekai Cheat Magician,SHOW,5.2,2019,4.85,0.27051124,Neutral
+ts89551,How Heavy Are the Dumbbells You Lift?,SHOW,7,2019,6.04,0.32196638,Positive
+ts87763,gen:LOCK,SHOW,7.3,2019,6.13,0.07835933,Neutral
+ts225675,Noblesse,SHOW,7,2020,6.35,0.21072607,Neutral
+ts222505,My Next Life as a Villainess: All Routes Lead to Doom!,SHOW,7.3,2020,6.18,0.23933472,Neutral
+ts225134,Princess Connect! Re:Dive,SHOW,6.3,2020,5.45,0.14525297,Neutral
+ts88954,We Never Learn: BOKUBEN,SHOW,7,2019,6.3,0.3661181,Positive
+ts217527,Azur Lane,SHOW,5.6,2019,5.34,0.21947387,Neutral
+ts231077,Rent-a-Girlfriend,SHOW,7.3,2020,4.03,-0.0334976,Neutral
+ts88669,YU-NO: A Girl Who Chants Love at the Bound of This World,SHOW,6.4,2019,5.55,0.18087512,Neutral
+ts88985,Ao-chan Can't Study!,SHOW,6.4,2019,5.77,0.00065561564,Neutral
+ts222382,Wandering Witch: The Journey of Elaina,SHOW,7,2020,5.89,0.38300386,Positive
+ts218885,Somali and the Forest Spirit,SHOW,7.5,2020,6.12,0.16808201,Neutral
+ts225854,I'm Standing on a Million Lives,SHOW,6.5,2020,5.59,0.12480105,Neutral
+ts240634,Akudama Drive,SHOW,7.4,2020,3.93,0.13694704,Neutral
+ts85668,Boogiepop and Others,SHOW,6.4,2019,5.47,0.26325652,Neutral
+ts236728,Mr Love: Queen's Choice,SHOW,6.2,2020,4.96,0.15466653,Neutral
+ts255514,Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!,SHOW,8.3,2020,6.9,0.28999954,Neutral
+ts236537,By the Grace of the Gods,SHOW,7.1,2020,6.22,0.16757596,Neutral
+ts224648,Monster Girl Doctor,SHOW,6.1,2020,5.3,0.0697975,Neutral
+ts89562,To the Abandoned Sacred Beasts,SHOW,6.3,2019,5.66,0.1591852,Neutral
+ts225665,Onyx Equinox,SHOW,7.1,2020,6.15,-0.09660248,Neutral
+ts219078,Ahiru no Sora,SHOW,7.3,2019,6.3,0.2986687,Neutral
+ts187246,A Certain Scientific Accelerator,SHOW,6.9,2019,5.8,0.062210735,Neutral
+ts89552,"Demon Lord, Retry!",SHOW,6.7,2019,5.89,0.17482756,Neutral
+ts90371,Mobile Suit Gundam: The Origin - Advent of the Red Comet,SHOW,7.8,2019,5.91,0.2958107,Neutral
+ts216695,High School Prodigies Have It Easy Even in Another World!,SHOW,6.2,2019,5.01,0.22606878,Neutral
+ts221718,Adachi and Shimamura,SHOW,7.2,2020,5.72,0.36596435,Positive
+ts90312,"If It's for My Daughter, I'd Even Defeat a Demon Lord",SHOW,6.9,2019,5.87,0.20777263,Neutral
+ts223236,Seton Academy: Join the Pack!,SHOW,6.6,2020,6.01,0.16843475,Neutral
+ts251712,I Tried Asking While Kowtowing,SHOW,4.3,2020,3.77,0.15885513,Neutral
+ts222812,Kakushigoto,SHOW,7.4,2020,6.17,0.19461335,Neutral
+ts224909,Shadowverse,SHOW,6,2020,4.98,0.28511855,Neutral
+ts286384,Love Live! Nijigasaki High School Idol Club,SHOW,7.3,2020,5.27,0.10280568,Neutral
+ts90309,Are You Lost?,SHOW,6.2,2019,5.66,0.059458945,Neutral
+ts221850,The Case Files of Jeweler Richard,SHOW,6.9,2020,5.35,0.23790573,Neutral
+ts84641,Magical Girl Spec-Ops Asuka,SHOW,6.4,2019,5.17,0.12400223,Neutral
+ts226464,Bungo and Alchemist -Gears of Judgement-,SHOW,6.7,2020,4.82,0.045104362,Neutral
+ts236900,Iwa Kakeru! Sport Climbing Girls,SHOW,6,2020,5.33,0.52408993,Positive
+ts89554,Magical Sempai,SHOW,6.1,2019,5.78,-0.025084948,Neutral
+ts223219,SUPER HxEROS,SHOW,5.4,2020,4.73,0.15413739,Neutral
+ts88978,Mix: Meisei Story,SHOW,7.3,2019,6.07,0.39753342,Positive
+ts86890,Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note,SHOW,6.9,2019,5.87,0.19183725,Neutral
+ts88982,The Helpful Fox Senko-san,SHOW,6.9,2019,6.22,0.21224754,Neutral
+ts222360,Infinite Dendrogram,SHOW,5.9,2020,5.05,0.5055184,Positive
+ts88999,Isekai Quartet,SHOW,6.9,2019,5.72,-0.22078216,Neutral
+ts224775,The Millionaire Detective – Balance: UNLIMITED,SHOW,7.3,2020,5.95,0.2423296,Neutral
+ts236710,Extra Olympia Kyklos,SHOW,7,2020,5.4,0.16319111,Neutral
+ts86183,WATATEN!: an Angel Flew Down to Me,SHOW,6.7,2019,5.92,0.349372,Positive
+ts88446,Sarazanmai,SHOW,6.9,2019,5.6,0.06088023,Neutral
+ts88981,Joshi Kausei,SHOW,5.1,2019,4.5,0.34972894,Positive
+ts87468,Midnight Occult Civil Servants,SHOW,6.7,2019,5.44,0.286519,Neutral
+ts88998,Yatogame-chan Kansatsu Nikki,SHOW,5.5,2019,4.65,0.15088329,Neutral
+ts217605,Asteroid in Love,SHOW,6.7,2020,4.66,0.22255796,Neutral
+ts249933,Ninja Collection,SHOW,5.3,2020,4.47,0.1720612,Neutral
+ts89212,Strike Witches: 501st JOINT FIGHTER WING Take Off!,SHOW,5,2019,4.27,0.35530332,Positive
+ts87519,Hitori Bocchi no Marumaru Seikatsu,SHOW,7.1,2019,6.26,0.16172335,Neutral
+ts217479,Oda Cinnamon Nobunaga,SHOW,6.4,2020,5.32,0.14990647,Neutral
+ts88971,Senryu Girl,SHOW,7,2019,5.81,0.14762759,Neutral
+ts84638,Girly Air Force,SHOW,6.2,2019,5.95,0.07407317,Neutral
+ts88996,NAMUAMIDABUTSU! -UTENA-,SHOW,5.7,2019,2.67,0.38238195,Positive
+ts84968,The Magnificent KOTOBUKI,SHOW,6.8,2019,5.23,0.33710372,Positive
+ts221689,Woodpecker Detective's Office,SHOW,6.8,2020,5.1,0.41614127,Positive
+ts89577,Try Knights,SHOW,6,2019,4.47,0.22126216,Neutral
+ts223490,The House Spirit Tatami-chan,SHOW,5,2020,3.26,0.18960518,Neutral
+ts89557,Granbelm,SHOW,6.5,2019,5.51,0.28559607,Neutral
+ts242952,Gibiate,SHOW,4.2,2020,2.35,0.032110706,Neutral
+ts221309,22/7,SHOW,6.6,2020,5.23,-0.08690563,Neutral
+ts253367,"With a Dog AND a Cat, Every Day Is Fun",SHOW,7,2020,5.24,0.4716563,Positive
+ts85646,Meiji Tokyo Renka,SHOW,7.3,2019,6.3,-0.01668021,Neutral
+ts254167,That is the Bottleneck,SHOW,5.4,2020,4.47,0.17181015,Neutral
+ts84652,"How Clumsy you are, Miss Ueno.",SHOW,5.9,2019,4.78,0.5125174,Positive
+ts221300,A Destructive God Sits Next to Me,SHOW,6.3,2020,5.06,0.030178126,Neutral
+ts222695,Room Camp,SHOW,7.2,2020,5.67,0.34254432,Positive
+ts86181,Grimms Notes: The Animation,SHOW,5.5,2019,5.11,0.12544142,Neutral
+ts84635,W'z,SHOW,6.7,2019,5.08,0.22733627,Neutral
+ts223648,Healin' Good♡Precure,SHOW,7.7,2020,6.54,0.09686973,Neutral
+ts88987,Cinderella Nine,SHOW,5.4,2019,5.04,0.31313017,Positive
+ts216452,Vlad Love,SHOW,5.6,2020,4.47,0.054732177,Neutral
+ts217603,Null & Peta,SHOW,6.1,2019,4.69,0.25093368,Neutral
+ts218633,Uchi Tama?! Uchi no Tama Shirimasen ka?,SHOW,6,2020,5.55,-0.07511761,Neutral
+ts89211,Amazing Stranger,SHOW,5.6,2019,4.53,-0.09501117,Neutral
+ts84653,Pastel Memories,SHOW,4.4,2019,3.65,0.30165395,Positive
+ts84992,The Price of Smiles,SHOW,5.7,2019,4.53,0.25039253,Neutral
+ts86184,Endro!,SHOW,7,2019,5.41,0.14242445,Neutral
+ts223253,True Cooking Master Boy,SHOW,6.8,2019,4.87,0.40400434,Positive
+ts236400,Umayon,SHOW,5.6,2020,5.04,0.6163452,Positive
+ts236963,D4DJ First Mix,SHOW,8.1,2020,5.49,0.3968161,Positive
+ts250796,Rail Romanesque,SHOW,5.7,2020,5.49,0.05846129,Neutral
+ts283022,SPY x FAMILY,SHOW,9,2022,7.37,0.36570242,Positive
+ts86068,Blade Runner: Black Lotus,SHOW,6.1,2021,5.67,0.105295554,Neutral
+ts265144,Ranking of Kings,SHOW,8.7,2021,7.06,0.23256747,Neutral
+ts286543,My Dress-Up Darling,SHOW,8.2,2022,6.9,0.044483602,Neutral
+ts249912,Tokyo Revengers,SHOW,8.2,2021,7.1,0.16439569,Neutral
+ts271380,ODDTAXI,SHOW,8.5,2021,7.09,0.16352734,Neutral
+ts283078,The Greatest Demon Lord Is Reborn as a Typical Nobody,SHOW,7,2022,5.47,0.12945496,Neutral
+ts224077,To Your Eternity,SHOW,8.6,2021,7.07,0.120702006,Neutral
+ts314925,Birdie Wing -Golf Girls' Story-,SHOW,6.4,2022,2.96,0.058191624,Neutral
+ts285780,The Case Study of Vanitas,SHOW,7.6,2021,6.51,0.15929541,Neutral
+ts271378,Vivy -Fluorite Eye's Song-,SHOW,8.1,2021,6.79,0.36216158,Positive
+ts251033,"Don't Toy With Me, Miss Nagatoro",SHOW,7.3,2021,6.45,0.35216403,Positive
+ts285872,takt op.Destiny,SHOW,6.9,2021,5.66,0.5214391,Positive
+ts237485,World's End Harem,SHOW,5.9,2021,5.09,0.19243309,Neutral
+ts257700,Mushoku Tensei: Jobless Reincarnation,SHOW,8.4,2021,4.54,0.08606736,Neutral
+ts251544,Fena: Pirate Princess,SHOW,7.1,2021,6.09,-0.011046906,Neutral
+ts277386,Platinum End,SHOW,6.2,2021,5.88,0.07079788,Neutral
+ts236473,Cells at Work! Code Black,SHOW,7.5,2021,6.32,0.1059105,Neutral
+ts285023,AMAIM Warrior at the Borderline,SHOW,6,2021,5.01,0.21673162,Neutral
+ts289859,Rust-Eater Bisco,SHOW,7,2022,3.63,0.14468439,Neutral
+ts318255,Aoashi,SHOW,7.6,2022,3.74,-0.16026346,Neutral
+ts300001,Miss Kuroitsu From the Monster Development Department,SHOW,6.5,2022,5.27,0.24950485,Neutral
+ts254340,Requiem of the Rose King,SHOW,4.1,2022,3.49,0.11797325,Neutral
+ts286865,KAGINADO,SHOW,6.6,2021,5.17,0.5186224,Positive
+ts311031,Digimon Ghost Game,SHOW,7.4,2021,6.22,0.318889,Positive
+ts225122,I've Been Killing Slimes for 300 Years and Maxed Out My Level,SHOW,6.4,2021,5.84,0.016827809,Neutral
+ts272271,The Strongest Sage With the Weakest Crest,SHOW,6.2,2022,5.31,0.40790433,Positive
+ts314532,Salaryman's Club,SHOW,8,2022,5.27,0.23744453,Neutral
+ts261530,Backflip!!,SHOW,7.4,2021,5.69,0.23064505,Neutral
+ts285174,Scarlet Nexus,SHOW,5.6,2021,5.13,0.25651655,Neutral
+ts227438,Combatants Will Be Dispatched!,SHOW,6.7,2021,6.04,0.20613569,Neutral
+ts304619,Ganbare Douki-chan,SHOW,6.3,2021,5.58,0.28746483,Neutral
+ts255909,Shadows House,SHOW,7.3,2021,6.29,0.09539964,Neutral
+ts286322,Obey Me!,SHOW,7.1,2021,3.31,0.1783048,Neutral
+ts306013,The Slime Diaries: That Time I Got Reincarnated as a Slime,SHOW,6.9,2021,5.91,0.5822223,Positive
+ts269508,Love of Kill,SHOW,6.5,2022,5.38,0.31905848,Positive
+ts225135,Bottom-tier Character Tomozaki,SHOW,7,2021,5.93,0.22994013,Neutral
+ts224456,Koikimo,SHOW,7.1,2021,5.67,-0.083012775,Neutral
+ts225667,FreakAngels,SHOW,6,2022,3.6,-0.009813716,Neutral
+ts225668,High Guardian Spice,SHOW,1.4,2021,2.13,0.1727045,Neutral
+ts287030,The Great Jahy Will Not Be Defeated!,SHOW,6.8,2021,5.66,-0.052742925,Neutral
+ts268936,WAVE!! -Let's go surfing!!-,SHOW,6.5,2021,4.79,0.42124796,Positive
+ts280992,The Duke of Death and His Maid,SHOW,7.1,2021,3.65,0.14323287,Neutral
+ts277823,Tropical-Rouge! Precure,SHOW,7.6,2021,3.49,0.0963473,Neutral
+ts316284,Tales of Luminaria the Fateful Crossroad,SHOW,6.8,2022,3.05,0.43889618,Positive
+ts285028,D_Cide Traumerei the Animation,SHOW,5.3,2021,4.96,0.2131695,Neutral
+ts266630,Night Head 2041,SHOW,6.9,2021,5.82,0.20106418,Neutral
+ts218796,Ex-Arm,SHOW,1.7,2021,3.28,0.0111456495,Neutral
+ts314720,Sorairo Utility,SHOW,6.2,2021,2.82,0.3031182,Positive
+ts260304,Otherside Picnic,SHOW,5.9,2021,3.1,0.20727141,Neutral
+ts249499,Hortensia Saga,SHOW,5.3,2021,5.16,0.15509479,Neutral
+ts272294,Joran: The Princess of Snow and Blood,SHOW,6.1,2021,5.3,0.14743595,Neutral
+ts253411,Scar on the Praeter,SHOW,6,2021,4.7,0.09424036,Neutral
+ts274718,SD Gundam World Heroes,SHOW,5,2021,2.31,0.29766208,Neutral
+ts272460,Seven Knights Revolution: Hero Successor,SHOW,5.9,2021,5.48,0.172232,Neutral
+ts236092,Kiyo in Kyoto: From the Maiko House,SHOW,7.4,2021,5.82,0.23104177,Neutral
+ts223694,Back Arrow,SHOW,5.9,2021,5.5,0.19816293,Neutral
+ts267874,I★Chu: Halfway Through the Idol,SHOW,6.5,2021,5.12,0.6820427,Positive
+ts268254,ABCiee Working Diary,SHOW,5.6,2021,4.06,0.56211144,Positive
+ts285889,GLOOMY The Naughty Grizzly,SHOW,4,2021,2.89,0.20243476,Neutral
+ts255190,Idolls!,SHOW,4.7,2021,2.84,0.470598,Positive
