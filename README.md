@@ -1,5 +1,5 @@
 # Crunchyroll Content Portfolio Analysis
-**End-to-end analytics portfolio project | Snowflake · SQL · Tableau · Snowflake Cortex AI**
+**Multi-layer project covering SQL-based data modeling in Snowflake, Cortex AI sentiment analysis, and content performance visualization in Tableau | Snowflake · SQL · Tableau · Snowflake Cortex AI**
 
 ---
 
