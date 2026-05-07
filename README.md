@@ -1,11 +1,11 @@
 # Crunchyroll Content Portfolio Analysis
-**Multi-layer project covering SQL-based data modeling in Snowflake, Cortex AI sentiment analysis, and content performance visualization in Tableau | Snowflake · SQL · Tableau · Snowflake Cortex AI**
+**Snowflake · SQL · Tableau · Snowflake Cortex AI**
 
 ---
 
 ## Overview
 
-A self-initiated portfolio project analyzing Crunchyroll's anime content library across 1,400+ titles. Built to demonstrate a full analytics pipeline — from raw data ingestion to executive-level dashboard delivery — targeting a Finance Data Analyst use case focused on content performance, audience demand, and investment signals.
+A self-initiated portfolio project analyzing Crunchyroll's anime content library across 1,400+ titles through SQL-based data modeling in Snowflake, Cortex AI sentiment analysis, and content performance visualization in Tableau — targeting a Finance Data Analyst use case focused on content performance, audience demand, and investment signals.
 
 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/talay.kamali/vizzes/viz/Crunchyroll_17715665047370/CrunchyrollContentPortfolioAnalysis)
 
